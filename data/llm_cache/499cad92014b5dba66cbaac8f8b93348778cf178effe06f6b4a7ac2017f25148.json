@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Rachel Reeves\",\n    \"Department for Work and Pensions\",\n    \"DWP\",\n    \"Pension Insurance Corporation\",\n    \"John Ralfe\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 893, "output_tokens": 98}

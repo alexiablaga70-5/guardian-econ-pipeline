@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Will Hutton\",\n    \"Andy Haldane\",\n    \"Andy Burnham\",\n    \"Scottish parliament\",\n    \"Metrex\",\n    \"London Stock Exchange\",\n    \"National Grid\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 728, "output_tokens": 100}

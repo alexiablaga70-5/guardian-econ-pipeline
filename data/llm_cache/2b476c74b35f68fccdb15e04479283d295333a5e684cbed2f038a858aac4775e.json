@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Coutts\",\n    \"NatWest\",\n    \"Peter Flavel\",\n    \"George IV\",\n    \"Tom Gilbey\",\n    \"Peter Fiori\",\n    \"Adam & Company\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 940, "output_tokens": 104}

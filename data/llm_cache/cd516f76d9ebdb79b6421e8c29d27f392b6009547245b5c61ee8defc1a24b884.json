@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Diageo\",\n    \"Ivan Menezes\",\n    \"Debra Crew\",\n    \"Javier Ferrán\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 655, "output_tokens": 85}

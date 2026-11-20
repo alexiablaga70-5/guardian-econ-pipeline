@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Fieldwork Robotics\",\n    \"University of Plymouth\",\n    \"Summer Berry Company\",\n    \"British Summer Fruits\",\n    \"Rui Andres\",\n    \"Nick Marston\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 952, "output_tokens": 102}

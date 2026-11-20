@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Dan Murphy’s\",\n    \"Woolworths\",\n    \"Primary Connect\",\n    \"Endeavour Group\",\n    \"Fair Work Commission\",\n    \"United Workers Union\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 676, "output_tokens": 103}

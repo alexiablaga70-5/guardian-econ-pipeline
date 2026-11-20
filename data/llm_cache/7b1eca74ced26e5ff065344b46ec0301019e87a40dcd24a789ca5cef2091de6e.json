@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"NatWest\",\n    \"Barclays\",\n    \"HSBC\",\n    \"Which?\",\n    \"UK government\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 787, "output_tokens": 91}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"FTX\",\n    \"Sam Bankman-Fried\",\n    \"Gary Wang\",\n    \"Alameda Research\",\n    \"Adam Yedidia\",\n    \"Caroline Ellison\",\n    \"Nishad Singh\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 970, "output_tokens": 113}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Hobbycraft\",\n    \"Covid-19\",\n    \"UK\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 521, "output_tokens": 79}

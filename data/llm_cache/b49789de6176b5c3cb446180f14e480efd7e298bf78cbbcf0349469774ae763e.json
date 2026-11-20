@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"British Airways\",\n    \"IAG\",\n    \"Unite\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 578, "output_tokens": 81}

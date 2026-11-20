@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Optus\",\n    \"Deloitte\",\n    \"Singtel\",\n    \"Kelly Bayer Rosmarin\",\n    \"Bill Shorten\",\n    \"Clare O’Neil\",\n    \"Australian Federal Police\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 865, "output_tokens": 106}

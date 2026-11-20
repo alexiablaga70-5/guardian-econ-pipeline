@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Anglicare\",\n    \"Australian Bureau of Statistics\",\n    \"Workforce Australia\",\n    \"Australia\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 959, "output_tokens": 87}

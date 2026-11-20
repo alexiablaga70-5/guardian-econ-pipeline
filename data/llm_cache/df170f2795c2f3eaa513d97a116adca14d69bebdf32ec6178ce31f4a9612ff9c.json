@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"GKN\",\n    \"Birmingham\",\n    \"Melrose\",\n    \"Unite\",\n    \"Jaguar Land Rover\",\n    \"Toyota\",\n    \"Nissan\",\n    \"Steve Turner\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 547, "output_tokens": 110}

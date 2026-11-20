@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"China\",\n    \"Donald Trump\",\n    \"National Bureau of Statistics\",\n    \"Zhao Qinghe\",\n    \"Pinpoint Asset Management\",\n    \"Zhiwei Zhang\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 354, "output_tokens": 102}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Post Office\",\n    \"Horizon\",\n    \"Seema Misra\",\n    \"David Smith\",\n    \"Lee Castleton\",\n    \"Stephen Dilley\",\n    \"Siobhan Sayer\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 980, "output_tokens": 106}

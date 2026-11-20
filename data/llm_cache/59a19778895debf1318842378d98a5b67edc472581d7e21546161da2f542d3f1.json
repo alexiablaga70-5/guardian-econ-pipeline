@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Eurozone\",\n    \"EU commission\",\n    \"Eurostat\",\n    \"Commerzbank\",\n    \"XM\",\n    \"International Monetary Fund\",\n    \"G7\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 640, "output_tokens": 103}

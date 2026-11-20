@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Glencore\",\n    \"Ivan Glasenberg\",\n    \"FTSE 100\",\n    \"Rio Tinto\",\n    \"Anglo American\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 665, "output_tokens": 95}

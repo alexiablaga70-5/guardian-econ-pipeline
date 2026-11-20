@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Chartered Institute of Procurement and Supply\",\n    \"CIPS\",\n    \"Donald Trump\",\n    \"Ben Farrell\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 650, "output_tokens": 89}

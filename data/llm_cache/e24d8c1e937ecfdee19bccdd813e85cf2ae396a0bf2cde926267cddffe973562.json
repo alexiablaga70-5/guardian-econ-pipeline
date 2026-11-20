@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Ikea\",\n    \"Vinted\",\n    \"eBay\",\n    \"MusicMagpie\",\n    \"AO\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 773, "output_tokens": 90}

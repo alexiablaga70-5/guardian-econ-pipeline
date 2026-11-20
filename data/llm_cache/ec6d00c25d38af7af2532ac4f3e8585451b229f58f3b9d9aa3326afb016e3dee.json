@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"The Guardian\",\n    \"Martin Bailey\",\n    \"Joe Bailey\",\n    \"Royal Holloway, University of London\",\n    \"Labour party\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 697, "output_tokens": 97}

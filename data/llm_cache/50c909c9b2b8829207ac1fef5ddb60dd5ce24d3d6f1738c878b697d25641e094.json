@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Hiscox\",\n    \"Lloyd’s of London\",\n    \"Financial Conduct Authority\",\n    \"Bronek Masojada\",\n    \"Robert Childs\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 705, "output_tokens": 98}

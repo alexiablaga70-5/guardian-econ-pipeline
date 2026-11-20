@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Qantas\",\n    \"Qatar Airways\",\n    \"Peter Dutton\",\n    \"Alan Joyce\",\n    \"Anthony Albanese\",\n    \"Bridget McKenzie\",\n    \"Richard Goyder\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 880, "output_tokens": 102}

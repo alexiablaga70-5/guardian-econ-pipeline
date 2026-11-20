@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Donald Trump\",\n    \"Federal Reserve\",\n    \"Jerome Powell\",\n    \"Elon Musk\",\n    \"Tesla\",\n    \"Bank of Russia\",\n    \"Elvira Nabiullina\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.9\n}", "input_tokens": 1000, "output_tokens": 106}

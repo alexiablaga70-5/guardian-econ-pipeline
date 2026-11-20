@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Barratt Developments\",\n    \"Liz Truss\",\n    \"David Thomas\",\n    \"Virgin Money\",\n    \"HSBC\",\n    \"Hargreaves Lansdown\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 836, "output_tokens": 99}

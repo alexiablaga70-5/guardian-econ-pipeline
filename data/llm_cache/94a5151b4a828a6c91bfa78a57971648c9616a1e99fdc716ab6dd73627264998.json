@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Klarna\",\n    \"Clearpay\",\n    \"UK\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 288, "output_tokens": 82}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"EU\",\n    \"Liquid Gas Europe\",\n    \"DeSmog\",\n    \"Guardian\",\n    \"European parliament\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 861, "output_tokens": 86}

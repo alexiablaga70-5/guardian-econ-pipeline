@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Retail Economics\",\n    \"Squire Patton Boggs\",\n    \"Ocado\",\n    \"Amazon\",\n    \"China\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 560, "output_tokens": 91}

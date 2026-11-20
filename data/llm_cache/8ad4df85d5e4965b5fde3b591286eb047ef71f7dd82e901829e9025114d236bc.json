@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"CBI\",\n    \"Tony Danker\",\n    \"Guardian\",\n    \"Brian McBride\",\n    \"Matthew Fell\",\n    \"Joanna Chatterton\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 837, "output_tokens": 95}

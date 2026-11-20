@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Royal Dutch Shell\",\n    \"Rystad Energy\",\n    \"Oil Change International\",\n    \"Eneco\",\n    \"Mitsubishi\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 981, "output_tokens": 90}

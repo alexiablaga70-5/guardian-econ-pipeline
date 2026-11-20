@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Philip Green\",\n    \"Topshop\",\n    \"Arcadia Group\",\n    \"Aldsworth Equity\",\n    \"Asos\",\n    \"Ikea\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 756, "output_tokens": 97}

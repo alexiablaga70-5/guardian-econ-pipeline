@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Thames Water\",\n    \"Tesco\",\n    \"Tesla\",\n    \"S&P 500\",\n    \"Nasdaq\",\n    \"Stoxx 600\",\n    \"Asda\",\n    \"Elon Musk\",\n    \"Donald Trump\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.9\n}", "input_tokens": 1038, "output_tokens": 121}

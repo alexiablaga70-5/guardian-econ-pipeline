@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"ITV\",\n    \"Sky\",\n    \"Comcast\",\n    \"Netflix\",\n    \"YouTube\",\n    \"Amazon\",\n    \"Disney+\",\n    \"Dame Carolyn McCall\",\n    \"CMA\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 991, "output_tokens": 107}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Climate Council\",\n    \"Climate Valuation\",\n    \"ASIC\",\n    \"Australian Bureau of Statistics\",\n    \"Finity Consulting\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 893, "output_tokens": 94}

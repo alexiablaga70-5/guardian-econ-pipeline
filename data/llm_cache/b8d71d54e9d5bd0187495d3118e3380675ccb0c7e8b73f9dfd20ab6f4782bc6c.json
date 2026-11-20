@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\"British Retail Consortium\", \"Barclays\", \"Ryanair\", \"Wilko\", \"KPMG\"],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 794, "output_tokens": 75}

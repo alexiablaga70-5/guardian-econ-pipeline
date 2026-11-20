@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Resolution Foundation\",\n    \"Office for National Statistics\",\n    \"Kathleen Henehan\",\n    \"Opinium\",\n    \"CEBR\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 800, "output_tokens": 98}

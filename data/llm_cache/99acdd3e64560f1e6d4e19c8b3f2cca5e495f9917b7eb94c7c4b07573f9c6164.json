@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"altele\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"ITV\",\n    \"Yvette Cooper\",\n    \"Ed Balls\",\n    \"Good Morning Britain\",\n    \"Ofcom\"\n  ],\n  \"perspectiva_economica\": \"neclar\",\n  \"incredere\": 0.95\n}", "input_tokens": 787, "output_tokens": 88}

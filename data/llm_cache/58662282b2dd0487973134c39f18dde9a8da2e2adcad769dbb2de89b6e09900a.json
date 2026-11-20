@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"UK\",\n    \"IHS Markit\",\n    \"Cips\",\n    \"Tim Moore\",\n    \"Duncan Brock\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.9\n}", "input_tokens": 599, "output_tokens": 90}

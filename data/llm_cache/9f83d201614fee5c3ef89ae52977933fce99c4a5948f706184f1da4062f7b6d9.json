@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Keir Starmer\",\n    \"Jim Callaghan\",\n    \"Helmut Schmidt\",\n    \"Larry Elliott\",\n    \"G7\",\n    \"AfD\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 922, "output_tokens": 99}

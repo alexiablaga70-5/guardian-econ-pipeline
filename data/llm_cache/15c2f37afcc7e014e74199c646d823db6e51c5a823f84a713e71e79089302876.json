@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Evergrande\",\n    \"Hui Ka Yan\",\n    \"Country Garden\",\n    \"Natixis\",\n    \"Hengda Real Estate\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 936, "output_tokens": 97}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Institute for Fiscal Studies\",\n    \"Guardian\",\n    \"NHS\",\n    \"Single Parent Rights\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 1003, "output_tokens": 85}

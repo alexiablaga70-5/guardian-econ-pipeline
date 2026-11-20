@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"International Energy Agency\",\n    \"Fatih Birol\",\n    \"China\",\n    \"Europe\",\n    \"US\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 862, "output_tokens": 88}

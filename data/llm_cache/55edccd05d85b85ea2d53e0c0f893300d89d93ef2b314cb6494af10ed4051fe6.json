@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Greensill\",\n    \"Jeremy Heywood\",\n    \"Bill Crothers\",\n    \"Lex Greensill\",\n    \"David Cameron\",\n    \"Credit Suisse\",\n    \"Cabinet Office\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 911, "output_tokens": 106}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"BMW\",\n    \"Oliver Zipse\",\n    \"Volkswagen\",\n    \"Stellantis\",\n    \"Fiat\",\n    \"Peugeot\",\n    \"Audi\",\n    \"Skoda\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 628, "output_tokens": 106}

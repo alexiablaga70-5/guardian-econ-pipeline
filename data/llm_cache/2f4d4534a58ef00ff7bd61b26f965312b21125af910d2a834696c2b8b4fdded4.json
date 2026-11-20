@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"AstraZeneca\",\n    \"Sir Pascal Soriot\",\n    \"Jeremy Hunt\",\n    \"Treasury\",\n    \"Labour government\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 933, "output_tokens": 94}

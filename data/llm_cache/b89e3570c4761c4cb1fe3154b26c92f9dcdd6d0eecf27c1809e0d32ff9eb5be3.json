@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Norwegian Air\",\n    \"A-ha\",\n    \"Bjorn Kjos\",\n    \"Bjorn Kise\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 764, "output_tokens": 90}

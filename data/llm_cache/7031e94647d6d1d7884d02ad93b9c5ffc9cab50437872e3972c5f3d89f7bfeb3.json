@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Deliveroo\",\n    \"Will Shu\",\n    \"IWGB\",\n    \"Alex Marshall\",\n    \"AJ Bell\",\n    \"Russ Mould\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 909, "output_tokens": 93}

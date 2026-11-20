@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Reserve Bank\",\n    \"Commonwealth Bank\",\n    \"Australian Council of Social Service\",\n    \"US Federal Reserve\",\n    \"ASX\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 1012, "output_tokens": 90}

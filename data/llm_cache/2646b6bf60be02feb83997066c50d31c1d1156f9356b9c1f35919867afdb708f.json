@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Morrisons\",\n    \"Clayton, Dubilier & Rice\",\n    \"Competition and Markets Authority\",\n    \"Motor Fuel Group\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 636, "output_tokens": 90}

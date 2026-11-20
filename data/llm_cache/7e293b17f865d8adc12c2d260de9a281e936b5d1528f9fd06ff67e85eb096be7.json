@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Next\",\n    \"Debenhams\",\n    \"Topshop\",\n    \"Dorothy Perkins\",\n    \"Simon Wolfson\",\n    \"FTSE 100\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 883, "output_tokens": 99}

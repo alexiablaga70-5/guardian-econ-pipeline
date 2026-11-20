@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"FTSE 100\",\n    \"High Pay Centre\",\n    \"TUC\",\n    \"Legal & General Investment Management\",\n    \"GMB\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 1002, "output_tokens": 95}

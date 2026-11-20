@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Aldi\",\n    \"Waitrose\",\n    \"Giles Hurley\",\n    \"Iceland\",\n    \"Marks & Spencer\",\n    \"Lidl\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 570, "output_tokens": 94}

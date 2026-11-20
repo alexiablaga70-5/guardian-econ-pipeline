@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"British Gas\",\n    \"Centrica\",\n    \"Spirit Energy\",\n    \"Chris O'Shea\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 639, "output_tokens": 85}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Evelyn de Rothschild\",\n    \"NM Rothschild\",\n    \"Rothschild & Co\",\n    \"The Guardian\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 876, "output_tokens": 86}

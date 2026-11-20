@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Clarks\",\n    \"Somerset\",\n    \"Community\",\n    \"Acas\",\n    \"LionRock Capital\",\n    \"Li Ning\",\n    \"JD Sports\",\n    \"Sports Direct\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 510, "output_tokens": 111}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"King Charles\",\n    \"Queen Camilla\",\n    \"Royal Warrant Holders Association\",\n    \"Federation of Small Businesses\",\n    \"Wilkin & Sons\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 940, "output_tokens": 94}

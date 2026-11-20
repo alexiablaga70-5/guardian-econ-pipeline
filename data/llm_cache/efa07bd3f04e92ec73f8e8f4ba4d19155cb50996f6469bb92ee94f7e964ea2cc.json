@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"FTSE 100\",\n    \"BYD\",\n    \"Tesla\",\n    \"Nationwide\",\n    \"Uber\",\n    \"Rachel Reeves\",\n    \"Elon Musk\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 1091, "output_tokens": 107}

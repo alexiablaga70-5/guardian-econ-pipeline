@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Nationwide building society\",\n    \"Bank of England\",\n    \"Rishi Sunak\",\n    \"Treasury\",\n    \"Barclays\",\n    \"Jes Staley\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 925, "output_tokens": 102}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Fairtrade\",\n    \"Fairtrade Foundation\",\n    \"Anna Barker\",\n    \"Willy Paredes\",\n    \"Seevali Mudannayake\",\n    \"Tomy Mathew\",\n    \"Hugo Guerrero\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 896, "output_tokens": 111}

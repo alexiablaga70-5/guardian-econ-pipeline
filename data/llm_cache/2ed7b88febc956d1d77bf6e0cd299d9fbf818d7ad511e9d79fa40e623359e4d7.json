@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Tanya Plibersek\",\n    \"Chris Bowen\",\n    \"Tony Abbott\",\n    \"Dr Maina Talia\",\n    \"Guardian Australia\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 929, "output_tokens": 97}

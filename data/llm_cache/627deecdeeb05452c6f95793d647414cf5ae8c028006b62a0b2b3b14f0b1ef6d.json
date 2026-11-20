@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Barclays\",\n    \"HSBC\",\n    \"Georges Elhedery\",\n    \"CS Venkatakrishnan\",\n    \"Bob Diamond\",\n    \"Kwasi Kwarteng\",\n    \"Goldman Sachs\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 845, "output_tokens": 108}

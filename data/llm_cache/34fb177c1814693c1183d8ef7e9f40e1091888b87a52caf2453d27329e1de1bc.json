@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"IMF\",\n    \"Federal Reserve\",\n    \"Deutsche Bank\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 622, "output_tokens": 77}

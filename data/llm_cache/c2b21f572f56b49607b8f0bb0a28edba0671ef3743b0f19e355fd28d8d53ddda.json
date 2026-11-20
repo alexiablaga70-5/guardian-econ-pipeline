@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Citigroup\",\n    \"Bloomberg\",\n    \"OMX Stockholm 30\",\n    \"Stoxx Europe 600\",\n    \"Revlon\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 724, "output_tokens": 99}

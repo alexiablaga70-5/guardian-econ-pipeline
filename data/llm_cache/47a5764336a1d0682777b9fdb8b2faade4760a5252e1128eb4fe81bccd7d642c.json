@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Australia Post\",\n    \"Christine Holgate\",\n    \"Lucio Di Bartolomeo\",\n    \"Tony Nutt\",\n    \"Boston Consulting Group\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 792, "output_tokens": 93}

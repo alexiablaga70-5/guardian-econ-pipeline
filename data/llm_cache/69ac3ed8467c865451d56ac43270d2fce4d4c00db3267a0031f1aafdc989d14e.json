@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Rightmove\",\n    \"Woodbridge\",\n    \"Richmond upon Thames\",\n    \"Hexham\",\n    \"Monmouth\",\n    \"Stirling\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 1189, "output_tokens": 95}

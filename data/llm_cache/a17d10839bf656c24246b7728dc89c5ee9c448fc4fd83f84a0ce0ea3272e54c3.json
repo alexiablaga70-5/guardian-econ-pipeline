@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"China Evergrande Group\",\n    \"China Evergrande New Energy Vehicle Group\",\n    \"Evergrande Services\",\n    \"Nomura\",\n    \"S&P\",\n    \"Kaisa\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 770, "output_tokens": 106}

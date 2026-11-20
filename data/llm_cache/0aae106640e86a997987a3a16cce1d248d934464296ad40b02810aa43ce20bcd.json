@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"UK\",\n    \"Society of Motor Manufacturers and Traders\",\n    \"SMMT\",\n    \"Tesla\",\n    \"Mike Hawes\",\n    \"Zap-Map\",\n    \"Boris Johnson\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 894, "output_tokens": 106}

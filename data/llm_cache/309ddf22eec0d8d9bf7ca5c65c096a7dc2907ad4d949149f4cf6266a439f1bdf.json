@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Pfizer\",\n    \"Susan Rienow\",\n    \"NHS\",\n    \"World Health Organization\",\n    \"BioNTech\",\n    \"AstraZeneca\",\n    \"Albert Bourla\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 979, "output_tokens": 102}

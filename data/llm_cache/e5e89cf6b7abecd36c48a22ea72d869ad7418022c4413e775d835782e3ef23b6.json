@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"WeWork\",\n    \"GPT Group\",\n    \"Lendlease\",\n    \"Dexus\",\n    \"David Tolley\",\n    \"Kai Riemer\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 738, "output_tokens": 100}

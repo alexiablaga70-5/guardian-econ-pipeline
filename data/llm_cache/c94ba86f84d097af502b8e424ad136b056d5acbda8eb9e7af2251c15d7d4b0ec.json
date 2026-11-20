@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Cineworld\",\n    \"Sky News\",\n    \"Alix Partners\",\n    \"Picturehouse\",\n    \"London Stock Exchange\",\n    \"Vue International\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 680, "output_tokens": 98}

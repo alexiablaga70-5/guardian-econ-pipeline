@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"London stock market\",\n    \"Lord Hill\",\n    \"Renishaw\",\n    \"Sir David McMurtry\",\n    \"John Deer\",\n    \"Treasury\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.9\n}", "input_tokens": 964, "output_tokens": 102}

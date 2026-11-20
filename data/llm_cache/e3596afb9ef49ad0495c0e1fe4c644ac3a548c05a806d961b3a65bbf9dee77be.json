@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Aslef\",\n    \"RMT\",\n    \"Rail Delivery Group\",\n    \"Mick Whelan\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 576, "output_tokens": 86}

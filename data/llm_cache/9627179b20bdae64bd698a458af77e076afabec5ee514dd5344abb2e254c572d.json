@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"UK\",\n    \"EU\",\n    \"Brussels\",\n    \"Marine Management Organisation\",\n    \"Royal Navy\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 693, "output_tokens": 88}

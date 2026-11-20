@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Gazprom\",\n    \"Nord Stream 1\",\n    \"G7\",\n    \"Vladimir Putin\",\n    \"Siemens\",\n    \"Klaus Mueller\",\n    \"Eric Mamer\",\n    \"Jacob Mandel\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 871, "output_tokens": 111}

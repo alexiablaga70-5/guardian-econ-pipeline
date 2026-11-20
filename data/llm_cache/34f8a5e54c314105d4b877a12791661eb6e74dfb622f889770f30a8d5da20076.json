@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Rachel Reeves\",\n    \"Labour\",\n    \"Treasury\",\n    \"Dan Tomlinson\",\n    \"Tonia Antoniazzi\",\n    \"Whitbread\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 895, "output_tokens": 97}

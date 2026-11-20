@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"altele\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Mars\",\n    \"Celebrations\",\n    \"Bounty\",\n    \"Maltesers\",\n    \"Tesco\",\n    \"Nestle\"\n  ],\n  \"perspectiva_economica\": \"neclar\",\n  \"incredere\": 0.95\n}", "input_tokens": 662, "output_tokens": 94}

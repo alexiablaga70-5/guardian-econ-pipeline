@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Boris Johnson\",\n    \"BP\",\n    \"Rishi Sunak\",\n    \"Ed Miliband\",\n    \"ITV\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 896, "output_tokens": 92}

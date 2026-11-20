@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Jim Ratcliffe\",\n    \"Ineos\",\n    \"Mercedes-Benz\",\n    \"Ford\",\n    \"BMW\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 901, "output_tokens": 90}

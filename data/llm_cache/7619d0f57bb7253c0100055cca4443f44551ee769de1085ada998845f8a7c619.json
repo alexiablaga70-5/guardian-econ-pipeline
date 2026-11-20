@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"The Hut Group\",\n    \"THG\",\n    \"Myprotein\",\n    \"Matthew Moulding\",\n    \"Oliver Nobahar-Cookson\",\n    \"PwC\",\n    \"Darren Rajanah\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 897, "output_tokens": 107}

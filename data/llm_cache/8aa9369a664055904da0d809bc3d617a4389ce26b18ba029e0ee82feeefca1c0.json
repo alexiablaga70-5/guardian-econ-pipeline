@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Donald Trump\",\n    \"FTSE 100\",\n    \"Dow Jones\",\n    \"DAX\",\n    \"CAC\",\n    \"AJ Bell\",\n    \"Iran\",\n    \"Oman\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 1042, "output_tokens": 114}

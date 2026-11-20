@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Wall Street\",\n    \"China\",\n    \"UK\",\n    \"FTSE 100\",\n    \"Stoxx 600\",\n    \"Poundstretcher\",\n    \"Labour Party\",\n    \"Brazil\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 994, "output_tokens": 117}

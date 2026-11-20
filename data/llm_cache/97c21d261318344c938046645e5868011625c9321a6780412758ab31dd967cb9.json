@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Gen Z\",\n    \"PwC\",\n    \"GlobalData Retail\",\n    \"New York Federal Reserve\",\n    \"American Dream mall\",\n    \"Mall of America\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 972, "output_tokens": 102}

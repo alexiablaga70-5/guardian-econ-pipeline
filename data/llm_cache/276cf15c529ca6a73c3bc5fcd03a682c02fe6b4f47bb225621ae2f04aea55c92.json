@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Rachel Reeves\",\n    \"Labour\",\n    \"NHS\",\n    \"Manchester Metropolitan University\",\n    \"Whitehall\",\n    \"Toby Lowe\",\n    \"Thurrock\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 897, "output_tokens": 106}

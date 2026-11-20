@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Luke Downham\",\n    \"NHS\",\n    \"Deloitte\",\n    \"Joseph Rowntree Foundation\",\n    \"Rachelle Earwaker\",\n    \"Josh Ryan-Collins\",\n    \"UCL\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 974, "output_tokens": 111}

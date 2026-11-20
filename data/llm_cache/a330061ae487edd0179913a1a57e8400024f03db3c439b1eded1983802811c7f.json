@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"BT\",\n    \"Prospect\",\n    \"Kwasi Kwarteng\",\n    \"Patrick Drahi\",\n    \"Mike Clancy\",\n    \"Deutsche Telekom\",\n    \"Tim Höttges\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 675, "output_tokens": 103}

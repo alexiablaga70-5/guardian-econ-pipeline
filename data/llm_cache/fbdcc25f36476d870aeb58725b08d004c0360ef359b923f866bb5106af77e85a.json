@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Sri Lanka\",\n    \"International Monetary Fund\",\n    \"Debt Justice\",\n    \"Jayati Ghosh\",\n    \"Thomas Piketty\",\n    \"Yannis Varoufakis\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 709, "output_tokens": 106}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Gordon Brown\",\n    \"Rowan Williams\",\n    \"Theos\",\n    \"Hannah Rich\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 907, "output_tokens": 85}

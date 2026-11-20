@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Ticketmaster\",\n    \"Oasis\",\n    \"Competition and Markets Authority\",\n    \"CMA\",\n    \"Live Nation\",\n    \"Keir Starmer\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 685, "output_tokens": 97}

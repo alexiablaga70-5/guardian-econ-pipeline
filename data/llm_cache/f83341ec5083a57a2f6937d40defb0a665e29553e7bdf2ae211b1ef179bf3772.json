@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Toyota\",\n    \"Greenpeace Australia Pacific\",\n    \"ACCC\",\n    \"Environmental Defenders Office\",\n    \"Toyota Australia\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.9\n}", "input_tokens": 657, "output_tokens": 88}

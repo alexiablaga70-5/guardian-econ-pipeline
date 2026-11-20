@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"OECD\",\n    \"Mathias Cormann\",\n    \"US Federal Reserve\",\n    \"Jerome Powell\",\n    \"Bank of England\",\n    \"Andrew Bailey\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 917, "output_tokens": 97}

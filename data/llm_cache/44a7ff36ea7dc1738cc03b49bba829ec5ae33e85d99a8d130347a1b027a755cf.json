@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Pfizer\",\n    \"BioNTech\",\n    \"FDA\",\n    \"Albert Bourla\",\n    \"Joe Biden\",\n    \"Centers for Disease Control and Prevention\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 668, "output_tokens": 99}
