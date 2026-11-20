@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Rolls-Royce\",\n    \"Torsten Müller-Otvös\",\n    \"Cullinan\",\n    \"BMW\",\n    \"Ayad al-Saffar\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 763, "output_tokens": 102}

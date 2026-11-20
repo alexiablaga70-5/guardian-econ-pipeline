@@ -28,7 +28,11 @@ def build_prompt(article: pd.Series) -> str:
     body = str(article.get("body", ""))[:4000]
     title = str(article.get("title", ""))
     return (
-        "Classifica articolul economic in JSON valid conform schemei.\n"
+        "Clasifica articolul in JSON valid conform schemei. Tema trebuie sa "
+        "reflecte subiectul principal. Daca articolul nu este in principal "
+        "despre economie, afaceri sau finante (de exemplu muzica, mancare, "
+        "calatorii, sport sau cultura), seteaza tema la \"altele\" si "
+        "perspectiva_economica la \"neclar\".\n"
         f"Titlu: {title}\n"
         f"Text:\n{body}"
     )
@@ -63,38 +67,39 @@ def sample_across_months(
         return articles.iloc[0:0].copy()
 
     dated = articles.copy()
-    dated["_month"] = pd.to_datetime(dated["date"], utc=True, errors="coerce").dt.to_period("M")
+    dated["_month"] = pd.to_datetime(
+        dated["date"], utc=True, errors="coerce"
+    ).dt.strftime("%Y-%m")
     dated = dated[dated["_month"].notna()]
 
     month_groups = [
-        group.drop(columns=["_month"])
-        for _, group in dated.groupby("_month", sort=True)
+        group.drop(columns=["_month"]).sample(
+            frac=1,
+            random_state=seed + index,
+        )
+        for index, (_, group) in enumerate(dated.groupby("_month", sort=True))
     ]
     if not month_groups:
         return dated.sample(n=min(limit, len(dated)), random_state=seed).copy()
 
-    selected_indexes: list[Any] = []
     remaining = min(limit, len(dated))
-    base, extra = divmod(remaining, len(month_groups))
-    for index, month_group in enumerate(month_groups):
-        target = base + (1 if index < extra else 0)
-        shuffled = month_group.sample(
-            n=min(target, len(month_group)),
-            random_state=seed + index,
+    month_count = len(month_groups)
+    selected_indexes: list[Any] = []
+    positions = [0] * month_count
+
+    for selection_index in range(remaining):
+        target_month = min(
+            month_count - 1,
+            int((selection_index + 0.5) * month_count / remaining),
         )
-        selected_indexes.extend(shuffled.index.tolist())
+        for offset in range(month_count):
+            month_index = (target_month + offset) % month_count
+            month_group = month_groups[month_index]
+            if positions[month_index] < len(month_group):
+                selected_indexes.append(month_group.index[positions[month_index]])
+                positions[month_index] += 1
+                break
 
-    if len(selected_indexes) < remaining:
-        already = set(selected_indexes)
-        for month_group in month_groups:
-            for article_index in month_group.index:
-                if len(selected_indexes) >= remaining:
-                    break
-                if article_index not in already:
-                    selected_indexes.append(article_index)
-                    already.add(article_index)
-
-    selected_indexes = selected_indexes[:remaining]
     result = dated.loc[selected_indexes].drop(columns=["_month"]).copy()
     result = result.sample(frac=1, random_state=seed)
     return result

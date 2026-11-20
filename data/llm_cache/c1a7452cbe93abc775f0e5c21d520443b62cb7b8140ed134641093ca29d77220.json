@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"HSBC\",\n    \"Hong Kong\",\n    \"UK\",\n    \"APPG\",\n    \"Alistair Carmichael\",\n    \"Mandatory Provident Fund Authority\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 728, "output_tokens": 97}

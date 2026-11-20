@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Ford\",\n    \"Ineos\",\n    \"Aston Martin Lagonda\",\n    \"GMB\",\n    \"Altus Group\",\n    \"Bridgend\",\n    \"Wales\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 917, "output_tokens": 106}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Ryanair\",\n    \"Michael O'Leary\",\n    \"Rachel Reeves\",\n    \"Labour government\",\n    \"HM Treasury\",\n    \"UK\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 723, "output_tokens": 100}

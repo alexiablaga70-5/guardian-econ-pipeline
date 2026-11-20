@@ -4,7 +4,12 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from src.label_llm import call_gemini, label_articles
+from src.label_llm import (
+    build_prompt,
+    call_gemini,
+    label_articles,
+    sample_across_months,
+)
 import src.label_llm as label_module
 
 
@@ -141,3 +146,91 @@ def test_api_key_not_in_error_output(monkeypatch, tmp_path: Path, capsys):
 
     message = capsys.readouterr().out
     assert "super-secret" not in message
+
+
+def test_sample_spans_full_date_range_and_shuffles_deterministically():
+    articles = pd.DataFrame(
+        [
+            {
+                "url": f"https://example.test/{year}-{month:02d}",
+                "title": f"Article {year}-{month:02d}",
+                "date": f"{year}-{month:02d}-15T00:00:00Z",
+            }
+            for year in range(2020, 2027)
+            for month in range(1, 13)
+        ]
+    )
+
+    sample = sample_across_months(articles, limit=7, seed=42)
+    repeat = sample_across_months(articles, limit=7, seed=42)
+    selected_dates = pd.to_datetime(sample["date"], utc=True)
+
+    assert sample["url"].tolist() == repeat["url"].tolist()
+    assert selected_dates.min().year == 2020
+    assert selected_dates.max().year == 2026
+    assert not selected_dates.is_monotonic_increasing
+
+
+def test_daily_limit_processes_shuffled_sample_across_years(monkeypatch, tmp_path: Path):
+    articles_path = tmp_path / "articles.parquet"
+    labels_path = tmp_path / "labels.parquet"
+    source = pd.DataFrame(
+        [
+            {
+                "url": f"https://example.test/{year}-{month:02d}",
+                "title": f"Article {year}-{month:02d}",
+                "section": "Business",
+                "date": f"{year}-{month:02d}-15T00:00:00Z",
+                "body": "Economic report.",
+            }
+            for year in range(2020, 2027)
+            for month in range(1, 13)
+        ]
+    )
+    source.to_parquet(articles_path, index=False)
+
+    class RecordingModels:
+        def __init__(self):
+            self.titles = []
+
+        def generate_content(self, model, contents, config):
+            self.titles.append(contents.splitlines()[1])
+            return MockResponse()
+
+    class RecordingClient:
+        def __init__(self):
+            self.models = RecordingModels()
+
+    client = RecordingClient()
+    label_articles(
+        model="partial-run-model",
+        daily_limit=12,
+        client=client,
+        articles_path=articles_path,
+        labels_path=labels_path,
+        seed=42,
+        sleep_fn=lambda _: None,
+    )
+
+    years = {
+        int(title.rsplit(" ", 1)[1][:4])
+        for title in client.models.titles
+    }
+    assert len(client.models.titles) == 12
+    assert len(years) >= 4
+    assert client.models.titles != sorted(client.models.titles)
+
+
+def test_prompt_marks_non_economic_articles_as_other():
+    prompt = build_prompt(
+        pd.Series(
+            {
+                "title": "Music festival",
+                "body": "A report about a music festival.",
+            }
+        )
+    )
+
+    assert '"altele"' in prompt
+    assert '"neclar"' in prompt
+    assert "muzica" in prompt
