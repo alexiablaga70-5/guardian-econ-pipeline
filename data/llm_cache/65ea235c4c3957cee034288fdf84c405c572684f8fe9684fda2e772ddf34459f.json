@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Donald Trump\",\n    \"Nancy Pelosi\",\n    \"Mitch McConnell\",\n    \"Jerome Powell\",\n    \"White House\",\n    \"Federal Reserve\",\n    \"GOP\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 798, "output_tokens": 107}

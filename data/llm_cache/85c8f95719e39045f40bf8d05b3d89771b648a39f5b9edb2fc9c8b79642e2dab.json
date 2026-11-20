@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Royal Mail\",\n    \"Communication Workers Union\",\n    \"CWU\",\n    \"Dave Ward\",\n    \"Asos\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 767, "output_tokens": 91}

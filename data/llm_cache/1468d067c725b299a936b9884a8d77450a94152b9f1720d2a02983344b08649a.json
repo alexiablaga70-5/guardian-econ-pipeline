@@ -1,0 +1,1 @@
+{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"BT\",\n    \"Virgin Media\",\n    \"O2\",\n    \"Philip Jansen\",\n    \"UK\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 614, "output_tokens": 88}
