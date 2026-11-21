@@ -25,3 +25,14 @@ Pipeline: colectare The Guardian + GDELT -> etichetare LLM (JSON validat)
 ## Teste și documentație
 - pytest pentru fiecare modul; README cu pași de rulare.
 - Orice decizie de design neașteptată se notează în docs/agent_incidents.md.
+
+## Reguli învățate din incidente
+- Nu afișa niciodată o cheie API sau un URL cu parametri. La HTTPError afișează doar codul de stare și calea.
+- Testează pe date reale, pe un eșantion mic, înainte de rularea completă. Un test cu răspuns simulat nu arată că un endpoint sau un nume există.
+- Nu presupune nume de secțiuni, câmpuri sau endpoint-uri: verifică în documentația API.
+- Colectarea și etichetarea trebuie să acopere toată perioada 2020–2026, nu doar primele luni. Folosește eșantionare pe luni și ordine amestecată cu seed fix.
+- Fiecare script afișează progres și un rezumat final (număr de elemente, interval de date, erori).
+- Scripturile se rulează ca module: `python -m src.nume_script`. Nu folosi importuri relative care funcționează doar sub pytest.
+- Orice scriere în Excel se testează cu un fișier xlsx real; datele cu fus orar se convertesc înainte.
+- La erori de API (429, 500, 503) reîncearcă cu așteptare crescătoare; nu opri tot scriptul pentru un singur element.
+- Nu modifica fișiere în afara celor cerute în sarcină.

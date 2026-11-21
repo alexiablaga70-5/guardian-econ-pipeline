@@ -3,6 +3,7 @@ import csv
 import hashlib
 import json
 import os
+import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -20,8 +21,10 @@ ARTICLES_PATH = PROJECT_ROOT / "data" / "articles.parquet"
 LABELS_PATH = PROJECT_ROOT / "data" / "labels.parquet"
 CACHE_DIR = PROJECT_ROOT / "data" / "llm_cache"
 INVALID_PATH = PROJECT_ROOT / "data" / "invalid.jsonl"
+FAILED_PATH = PROJECT_ROOT / "data" / "failed.jsonl"
 COSTS_PATH = PROJECT_ROOT / "data" / "costs.csv"
 SEED = 42
+RETRY_DELAYS = (10, 30, 60, 120, 240)
 
 
 def build_prompt(article: pd.Series) -> str:
@@ -172,6 +175,44 @@ def status_code(error: Exception) -> int | None:
     return None
 
 
+def error_reason(error: Exception, api_key: str | None = None) -> str:
+    reason = getattr(error, "reason", None) or getattr(error, "message", None)
+    if reason is None:
+        reason = str(error)
+    reason = str(reason)
+    if api_key:
+        reason = reason.replace(api_key, "[REDACTED]")
+    return re.sub(
+        r"https?://[^\s\"'<>]+",
+        "[URL REDACTED]",
+        reason,
+        flags=re.IGNORECASE,
+    )
+
+
+def is_network_timeout(error: Exception) -> bool:
+    return any(
+        "timeout" in error_type.__name__.lower()
+        for error_type in type(error).__mro__
+    )
+
+
+def append_failed(
+    article: pd.Series,
+    error: Exception,
+    api_key: str | None = None,
+) -> None:
+    FAILED_PATH.parent.mkdir(parents=True, exist_ok=True)
+    record = {
+        "url": str(article["url"]),
+        "exception": type(error).__name__,
+        "status": status_code(error),
+        "reason": error_reason(error, api_key),
+    }
+    with FAILED_PATH.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
 def extract_usage(response: Any) -> tuple[int, int]:
     usage = getattr(response, "usage_metadata", None)
     if usage is None:
@@ -195,7 +236,7 @@ def call_gemini(
             int(cached.get("output_tokens", 0)),
         )
 
-    for attempt in range(5):
+    for attempt in range(len(RETRY_DELAYS) + 1):
         try:
             response = client.models.generate_content(
                 model=model,
@@ -221,11 +262,10 @@ def call_gemini(
             return text, input_tokens, output_tokens
         except Exception as error:
             code = status_code(error)
-            message = str(error).lower()
-            if code in (429, 503) or "429" in message or "503" in message:
-                if attempt == 4:
+            if code in (429, 500, 503) or is_network_timeout(error):
+                if attempt == len(RETRY_DELAYS):
                     raise
-                sleep_fn(2 ** attempt)
+                sleep_fn(RETRY_DELAYS[attempt])
                 continue
             raise
 
@@ -303,8 +343,18 @@ def label_articles(
             )
         except Exception as error:
             code = status_code(error)
-            print(f"Gemini API error: status={code or 'unknown'}")
-            break
+            api_key = os.getenv("GEMINI_API_KEY")
+            reason = error_reason(error, api_key)
+            print(
+                f"Gemini API error: exception={type(error).__name__} "
+                f"status={code if code is not None else 'unknown'} "
+                f"reason={reason}"
+            )
+            append_failed(article, error, api_key)
+            if cached is None:
+                call_count += 1
+                request_times.append(time.monotonic())
+            continue
 
         if cached is None:
             call_count += 1
