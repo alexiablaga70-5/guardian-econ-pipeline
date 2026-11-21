@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Asda\",\n    \"TDR Capital\",\n    \"Issa brothers\",\n    \"EG Group\",\n    \"Walmart\",\n    \"Shore Capital\",\n    \"Competition and Markets Authority\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 911, "output_tokens": 102}

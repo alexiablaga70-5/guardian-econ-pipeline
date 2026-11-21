@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"McDonald’s\",\n    \"Burger King\",\n    \"Pret a Manger\",\n    \"Deliveroo\",\n    \"Paul Pomroy\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 630, "output_tokens": 92}

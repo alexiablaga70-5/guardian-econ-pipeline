@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"NHS\",\n    \"Vodafone\",\n    \"Zoom\",\n    \"BT\",\n    \"Nick Jeffery\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 558, "output_tokens": 84}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Friends of the Earth\",\n    \"UK Export Finance\",\n    \"UK Government\",\n    \"Mozambique LNG project\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 715, "output_tokens": 85}

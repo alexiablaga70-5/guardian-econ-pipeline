@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Shell\",\n    \"Rotterdam\",\n    \"Machteld de Haan\",\n    \"International Energy Agency\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 592, "output_tokens": 83}

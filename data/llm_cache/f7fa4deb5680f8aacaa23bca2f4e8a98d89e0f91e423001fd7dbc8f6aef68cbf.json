@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Deloitte\",\n    \"FTSE350\",\n    \"Ian Stewart\",\n    \"Office for Budget Responsibility\",\n    \"Bank of England\",\n    \"Richard Houston\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.99\n}", "input_tokens": 794, "output_tokens": 102}

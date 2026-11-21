@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"GMB\",\n    \"Thames Water\",\n    \"Guardian\",\n    \"Environment Agency\",\n    \"Ofwat\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 847, "output_tokens": 90}

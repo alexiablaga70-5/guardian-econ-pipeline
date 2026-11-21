@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"JP Morgan\",\n    \"Jamie Dimon\",\n    \"US\",\n    \"Russia\",\n    \"Joe Biden\",\n    \"Vladimir Putin\",\n    \"Nato\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 914, "output_tokens": 102}

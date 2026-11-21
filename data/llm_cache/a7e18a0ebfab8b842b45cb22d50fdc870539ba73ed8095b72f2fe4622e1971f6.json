@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"International Monetary Fund\",\n    \"IMF\",\n    \"China\",\n    \"US\",\n    \"European Union\",\n    \"Benjamin Carton\",\n    \"Jean-Marc Natal\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 770, "output_tokens": 102}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Santander\",\n    \"FCA\",\n    \"Webster Bank\",\n    \"Banco Santander\",\n    \"Mike Regnier\",\n    \"Ana Botin\",\n    \"TSB\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 793, "output_tokens": 102}

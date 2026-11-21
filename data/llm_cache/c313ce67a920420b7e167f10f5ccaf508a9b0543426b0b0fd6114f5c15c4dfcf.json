@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"BT\",\n    \"Allison Kirkby\",\n    \"EE\",\n    \"Openreach\",\n    \"Virgin Media O2\",\n    \"BT Global Services\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 810, "output_tokens": 95}

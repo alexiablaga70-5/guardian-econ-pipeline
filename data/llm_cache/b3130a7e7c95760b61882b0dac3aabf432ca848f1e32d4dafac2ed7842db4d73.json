@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Bank of England\",\n    \"Catherine Mann\",\n    \"Threadneedle Street\",\n    \"Bloomberg\",\n    \"European Central Bank\",\n    \"Federal Reserve\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 673, "output_tokens": 98}

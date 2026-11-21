@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Ikea\",\n    \"Asda\",\n    \"Asos\",\n    \"Selfridges\",\n    \"John Lewis\",\n    \"Music Magpie\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 732, "output_tokens": 95}

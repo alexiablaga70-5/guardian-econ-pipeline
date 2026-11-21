@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"OBR\",\n    \"Treasury\",\n    \"Bertrand Russell\",\n    \"Costas Milas\",\n    \"University of Liverpool\",\n    \"Oxford University Press\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.8\n}", "input_tokens": 438, "output_tokens": 100}

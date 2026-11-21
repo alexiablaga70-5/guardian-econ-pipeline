@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"JD Wetherspoon\",\n    \"Euro 2021\",\n    \"Hargreaves Lansdown\",\n    \"Tim Martin\",\n    \"Susannah Streeter\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 678, "output_tokens": 102}

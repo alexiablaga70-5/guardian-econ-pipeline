@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Bank of England\",\n    \"Ben Broadbent\",\n    \"Andrew Bailey\",\n    \"Rachel Reeves\",\n    \"Jeremy Hunt\",\n    \"Resolution Foundation\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 968, "output_tokens": 98}

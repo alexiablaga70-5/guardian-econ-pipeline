@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"McDonald's\",\n    \"Chris Kempczinski\",\n    \"Steve Easterbrook\",\n    \"US Securities and Exchange Commission\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 650, "output_tokens": 88}

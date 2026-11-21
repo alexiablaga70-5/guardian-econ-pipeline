@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Conservative party\",\n    \"Frank Hester\",\n    \"Rishi Sunak\",\n    \"Phoenix Partnership\",\n    \"Guardian\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.8\n}", "input_tokens": 961, "output_tokens": 89}

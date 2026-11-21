@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Amazon\",\n    \"Jeff Bezos\",\n    \"Andy Jassy\",\n    \"GlaxoSmithKline\",\n    \"AstraZeneca\",\n    \"Asda\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 999, "output_tokens": 97}

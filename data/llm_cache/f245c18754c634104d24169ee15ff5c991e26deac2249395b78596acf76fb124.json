@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Michał Sołowow\",\n    \"SGE\",\n    \"GE Vernova\",\n    \"Hitachi\",\n    \"Google\",\n    \"Rolls-Royce\",\n    \"UK Government\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 824, "output_tokens": 106}

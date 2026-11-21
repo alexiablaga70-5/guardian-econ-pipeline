@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"BP\",\n    \"Princeton University\",\n    \"MIT Energy Initiative\",\n    \"WIREs Climate Change\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 889, "output_tokens": 82}

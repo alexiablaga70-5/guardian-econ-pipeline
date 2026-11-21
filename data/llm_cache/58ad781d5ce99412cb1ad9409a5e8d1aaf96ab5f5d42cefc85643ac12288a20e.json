@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Virgin Money\",\n    \"Virgin Atlantic\",\n    \"David Duffy\",\n    \"Richard Branson\",\n    \"CYBG\",\n    \"Virgin Enterprises Limited\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 651, "output_tokens": 97}

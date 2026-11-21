@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Shein\",\n    \"Luigi Mangione\",\n    \"UnitedHealthcare\",\n    \"Brian Thompson\",\n    \"Amazon\",\n    \"Etsy\",\n    \"Temu\",\n    \"Michael McGrath\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 796, "output_tokens": 106}

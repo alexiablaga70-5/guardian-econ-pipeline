@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"National Union of Rail, Maritime and Transport Workers\",\n    \"RMT\",\n    \"Network Rail\",\n    \"London Underground\",\n    \"Grant Shapps\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 939, "output_tokens": 98}

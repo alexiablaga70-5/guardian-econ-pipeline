@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Office for National Statistics\",\n    \"UK\",\n    \"Tony Blair\",\n    \"David Cameron\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 978, "output_tokens": 85}

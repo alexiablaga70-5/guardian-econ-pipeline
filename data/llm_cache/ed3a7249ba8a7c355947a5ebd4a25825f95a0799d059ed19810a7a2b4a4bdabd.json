@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Russia\",\n    \"China\",\n    \"Brics\",\n    \"Brazil\",\n    \"G7\",\n    \"ICC\"\n  ],\n  \"perspectiva_economica\": \"neclar\",\n  \"incredere\": 0.85\n}", "input_tokens": 902, "output_tokens": 92}

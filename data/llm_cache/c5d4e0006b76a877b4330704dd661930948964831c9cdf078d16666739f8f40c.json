@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Qantas\",\n    \"Darwin\",\n    \"London\",\n    \"Heathrow\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 892, "output_tokens": 79}

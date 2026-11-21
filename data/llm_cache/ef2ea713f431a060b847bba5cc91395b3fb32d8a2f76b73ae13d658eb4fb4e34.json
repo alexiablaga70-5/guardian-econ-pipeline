@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Bank of England\",\n    \"Andrew Bailey\",\n    \"Huw Pill\",\n    \"Federal Reserve\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 762, "output_tokens": 87}

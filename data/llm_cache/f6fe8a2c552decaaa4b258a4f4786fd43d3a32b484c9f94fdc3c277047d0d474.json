@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Frasers Group\",\n    \"Mike Ashley\",\n    \"Peacocks\",\n    \"Philip Day\",\n    \"FRP\",\n    \"EWM Group\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 950, "output_tokens": 97}

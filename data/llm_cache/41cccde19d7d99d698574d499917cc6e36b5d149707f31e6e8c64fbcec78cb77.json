@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"EE\",\n    \"BT\",\n    \"Apple\",\n    \"Sky\",\n    \"BBC\",\n    \"PP Foresight\",\n    \"Paolo Pescatore\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 483, "output_tokens": 98}

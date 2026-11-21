@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"GSK\",\n    \"NHS\",\n    \"HMRC\",\n    \"TaxWatch\",\n    \"Biotechnology and Biological Sciences Research Council\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 384, "output_tokens": 91}

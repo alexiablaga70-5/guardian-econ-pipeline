@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Barcelona\",\n    \"Catalonia\",\n    \"Costa Brava\",\n    \"La Rambla\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 965, "output_tokens": 84}

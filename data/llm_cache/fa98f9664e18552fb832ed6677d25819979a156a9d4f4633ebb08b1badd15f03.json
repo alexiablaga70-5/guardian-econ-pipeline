@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Coles\",\n    \"Woolworths\",\n    \"NSW Environment Protection Authority\",\n    \"REDcycle\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 873, "output_tokens": 84}

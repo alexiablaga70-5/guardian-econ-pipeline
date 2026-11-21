@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"FTSE 100\",\n    \"Resolution Foundation\",\n    \"Torsten Bell\",\n    \"Institute for Fiscal Studies\",\n    \"Bank of England\",\n    \"Rishi Sunak\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 981, "output_tokens": 108}

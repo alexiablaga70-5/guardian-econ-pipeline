@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Tesco\",\n    \"Unite\",\n    \"Usdaw\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 698, "output_tokens": 81}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Reserve Bank\",\n    \"RBA\",\n    \"Philip Lowe\",\n    \"Greg Jericho\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 973, "output_tokens": 85}

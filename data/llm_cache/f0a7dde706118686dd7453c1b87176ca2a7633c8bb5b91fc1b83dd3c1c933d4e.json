@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"UK government\",\n    \"OneWeb\",\n    \"Bharti\",\n    \"Dominic Cummings\",\n    \"Airbus\",\n    \"Starlink\",\n    \"SoftBank\",\n    \"Alok Sharma\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 921, "output_tokens": 107}

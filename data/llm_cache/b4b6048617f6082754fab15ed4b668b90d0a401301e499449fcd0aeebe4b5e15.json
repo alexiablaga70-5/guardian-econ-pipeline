@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Morrison\",\n    \"Callam Pickering\",\n    \"Indeed\",\n    \"Westpac\",\n    \"John Quiggin\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 959, "output_tokens": 95}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Australia Post\",\n    \"Christine Holgate\",\n    \"Lucio Di Bartolomeo\",\n    \"Scott Morrison\",\n    \"Tony Nutt\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 911, "output_tokens": 92}

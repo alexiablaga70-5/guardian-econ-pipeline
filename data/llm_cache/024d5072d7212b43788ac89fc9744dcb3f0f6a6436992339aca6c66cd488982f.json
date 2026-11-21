@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Co-op\",\n    \"UK\",\n    \"Waitrose\",\n    \"Deliveroo\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 452, "output_tokens": 86}

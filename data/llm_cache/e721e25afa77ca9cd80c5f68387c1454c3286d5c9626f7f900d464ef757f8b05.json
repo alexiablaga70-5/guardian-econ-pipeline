@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"UK\",\n    \"Springboard\",\n    \"Mitchells & Butlers\",\n    \"Wahaca\",\n    \"Banchory Lodge\",\n    \"Emilia’s Crafted Pizza\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.89\n}", "input_tokens": 703, "output_tokens": 103}

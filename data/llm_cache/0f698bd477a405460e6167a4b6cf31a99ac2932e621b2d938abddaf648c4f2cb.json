@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"CBI\",\n    \"Confederation of British Industry\",\n    \"KPMG\",\n    \"Treasury\",\n    \"Bank of England\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 941, "output_tokens": 98}

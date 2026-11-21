@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Qantas\",\n    \"Jetstar\",\n    \"Andrew Glance\",\n    \"Adele Eliseo\",\n    \"Virgin Australia\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 754, "output_tokens": 89}

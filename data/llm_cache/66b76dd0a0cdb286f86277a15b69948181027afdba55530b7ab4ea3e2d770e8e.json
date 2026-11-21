@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Coles\",\n    \"Woolworths\",\n    \"Curtin University\",\n    \"Adrian North\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 951, "output_tokens": 83}

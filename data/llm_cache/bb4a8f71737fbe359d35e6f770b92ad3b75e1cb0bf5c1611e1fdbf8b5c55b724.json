@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"British Retail Consortium\",\n    \"BRC\",\n    \"Sensormatic Solutions\",\n    \"Helen Dickinson\",\n    \"Andy Sumpter\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 577, "output_tokens": 95}

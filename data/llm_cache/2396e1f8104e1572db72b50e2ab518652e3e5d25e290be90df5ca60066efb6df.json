@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"International Monetary Fund\",\n    \"Kristalina Georgieva\",\n    \"Bloomberg TV\",\n    \"Bank of England\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 719, "output_tokens": 89}

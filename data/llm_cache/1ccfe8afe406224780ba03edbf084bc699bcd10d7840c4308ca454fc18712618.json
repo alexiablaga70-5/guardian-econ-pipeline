@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Walmart\",\n    \"Rev William Barber II\",\n    \"Doug McMillon\",\n    \"Cynthia Murray\",\n    \"Human Impact Partners\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 950, "output_tokens": 92}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Harriett Baldwin\",\n    \"JP Morgan\",\n    \"Treasury select committee\",\n    \"Odey Asset Management\",\n    \"Crispin Odey\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 911, "output_tokens": 95}

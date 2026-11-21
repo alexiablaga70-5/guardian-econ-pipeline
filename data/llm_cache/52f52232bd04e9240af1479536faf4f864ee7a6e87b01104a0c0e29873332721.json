@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"HS2\",\n    \"Conservative party\",\n    \"Sir Douglas Oakervee\",\n    \"Rishi Sunak\",\n    \"Department for Transport\",\n    \"Andy Street\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 956, "output_tokens": 102}

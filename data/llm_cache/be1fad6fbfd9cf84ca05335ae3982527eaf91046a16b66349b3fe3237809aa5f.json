@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"ITV\",\n    \"ITVX\",\n    \"Netflix\",\n    \"Disney\",\n    \"Comcast\",\n    \"Paramount\",\n    \"Warner Bros Discovery\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 997, "output_tokens": 102}

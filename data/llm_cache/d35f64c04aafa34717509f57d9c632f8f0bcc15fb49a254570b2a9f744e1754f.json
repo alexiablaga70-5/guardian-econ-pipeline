@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"ITV\",\n    \"Covid-19\",\n    \"ITV Studios\",\n    \"ITV Hub\",\n    \"Coronation Street\",\n    \"Emmerdale\",\n    \"Love Island\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 599, "output_tokens": 108}

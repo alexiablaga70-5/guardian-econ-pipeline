@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Range Rover\",\n    \"Jaguar Land Rover\",\n    \"JLR\",\n    \"Tata Motors\",\n    \"Donald Trump\",\n    \"Martin Limpert\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 491, "output_tokens": 97}

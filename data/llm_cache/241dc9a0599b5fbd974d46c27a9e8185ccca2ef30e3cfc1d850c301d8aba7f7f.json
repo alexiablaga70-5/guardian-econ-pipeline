@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"National Grid\",\n    \"Rishi Sunak\",\n    \"Drax\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 529, "output_tokens": 75}

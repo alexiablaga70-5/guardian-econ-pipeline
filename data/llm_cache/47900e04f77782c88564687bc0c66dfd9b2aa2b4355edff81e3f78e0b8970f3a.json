@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"BP\",\n    \"Saudi Aramco\",\n    \"Murray Auchincloss\",\n    \"Rosneft\",\n    \"Global Witness\",\n    \"Shell\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 980, "output_tokens": 95}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Burger King\",\n    \"Veganuary\",\n    \"The Vegan Society\",\n    \"Vegetarian Butcher\",\n    \"Greggs\",\n    \"Subway\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 752, "output_tokens": 98}

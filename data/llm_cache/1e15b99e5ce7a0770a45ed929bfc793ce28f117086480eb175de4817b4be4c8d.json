@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Wall Street\",\n    \"Biden administration\",\n    \"Trump administration\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 921, "output_tokens": 75}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Institute for Fiscal Studies\",\n    \"Deliveroo\",\n    \"Just Eat\",\n    \"University College London\",\n    \"Andrew McKendrick\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 757, "output_tokens": 92}

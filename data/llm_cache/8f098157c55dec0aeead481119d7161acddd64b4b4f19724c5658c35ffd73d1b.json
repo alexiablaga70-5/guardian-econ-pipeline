@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Thames Water\",\n    \"ING\",\n    \"Goldman Sachs\",\n    \"Rio Tinto\",\n    \"Co-op\",\n    \"S&P Global\",\n    \"Federal Reserve\",\n    \"Bank of England\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 952, "output_tokens": 110}

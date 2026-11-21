@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"UK\",\n    \"EU\",\n    \"European Commission\",\n    \"Johnson\",\n    \"Keir Starmer\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.8\n}", "input_tokens": 890, "output_tokens": 85}

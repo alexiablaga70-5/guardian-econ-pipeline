@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Reach\",\n    \"Daily Mirror\",\n    \"Daily Express\",\n    \"Daily Star\",\n    \"Jim Mullen\",\n    \"Lloyd Embley\",\n    \"Alan Edmunds\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 813, "output_tokens": 102}

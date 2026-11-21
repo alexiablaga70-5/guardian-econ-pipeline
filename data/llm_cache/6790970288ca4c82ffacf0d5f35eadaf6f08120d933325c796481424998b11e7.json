@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Woolworths\",\n    \"United Workers Union\",\n    \"Fair Work Commission\",\n    \"Amanda Bardwell\",\n    \"Tim Kennedy\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 692, "output_tokens": 94}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"EU\",\n    \"Northvolt\",\n    \"Margrethe Vestager\",\n    \"Build Your Dream\",\n    \"BYD\",\n    \"Eve Energy\",\n    \"Sunwoda\",\n    \"Ursula von der Leyen\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 733, "output_tokens": 113}

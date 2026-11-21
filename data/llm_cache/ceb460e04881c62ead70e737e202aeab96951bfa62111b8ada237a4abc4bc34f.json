@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"John Lewis Partnership\",\n    \"Jason Tarry\",\n    \"Tesco\",\n    \"Dame Sharon White\",\n    \"Nish Kankiwala\",\n    \"Marks & Spencer\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.85\n}", "input_tokens": 844, "output_tokens": 103}

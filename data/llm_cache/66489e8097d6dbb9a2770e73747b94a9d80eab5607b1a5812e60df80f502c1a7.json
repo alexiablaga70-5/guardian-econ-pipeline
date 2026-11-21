@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Halifax\",\n    \"HSBC\",\n    \"TSB\",\n    \"Nationwide\",\n    \"Peak Mortgages and Protection\",\n    \"Shaw Financial Services\",\n    \"Rishi Sunak\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 600, "output_tokens": 106}

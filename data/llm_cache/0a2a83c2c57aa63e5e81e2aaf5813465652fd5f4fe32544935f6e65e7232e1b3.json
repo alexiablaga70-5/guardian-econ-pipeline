@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Jack Ma\",\n    \"Alibaba\",\n    \"Ant Group\",\n    \"Xi Jinping\",\n    \"TenCent\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 852, "output_tokens": 90}

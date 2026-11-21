@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Jaguar\",\n    \"BMW\",\n    \"Mini\",\n    \"JLR\",\n    \"Tesla\",\n    \"Elon Musk\",\n    \"William Lyons\",\n    \"Gerry McGovern\",\n    \"David Bailey\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 990, "output_tokens": 111}

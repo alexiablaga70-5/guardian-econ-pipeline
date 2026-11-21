@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"BP\",\n    \"Andy Burnham\",\n    \"Meg O'Neill\",\n    \"Shell\",\n    \"Aramco\",\n    \"Chevron\",\n    \"ExxonMobil\",\n    \"Donald Trump\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 921, "output_tokens": 106}

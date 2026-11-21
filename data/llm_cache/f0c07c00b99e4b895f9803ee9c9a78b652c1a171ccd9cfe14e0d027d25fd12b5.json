@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Boeing\",\n    \"Joshua Dean\",\n    \"Spirit AeroSystems\",\n    \"Federal Aviation Administration\",\n    \"John Mitch Barnett\",\n    \"Sam Salehpour\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 675, "output_tokens": 102}

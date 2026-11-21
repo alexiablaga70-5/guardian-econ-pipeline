@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Ford\",\n    \"Jack Baker\",\n    \"Philippe Houchois\",\n    \"Jefferies\",\n    \"BMW\",\n    \"Porsche\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 963, "output_tokens": 92}

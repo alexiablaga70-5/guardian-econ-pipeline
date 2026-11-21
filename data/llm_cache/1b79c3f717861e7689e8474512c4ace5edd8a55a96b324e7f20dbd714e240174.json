@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Daniel Křetínský\",\n    \"Royal Mail\",\n    \"International Distribution Services\",\n    \"Gazprom\",\n    \"EPH\",\n    \"Eustream\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 996, "output_tokens": 99}

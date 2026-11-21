@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Ineos\",\n    \"Sir Jim Ratcliffe\",\n    \"David Brooks\",\n    \"China\",\n    \"US\",\n    \"UK Government\",\n    \"European Commission\",\n    \"Shell\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 891, "output_tokens": 107}

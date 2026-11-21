@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Binance\",\n    \"FBI\",\n    \"TraderTraitor\",\n    \"Lazarus Group\",\n    \"Richard Teng\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 909, "output_tokens": 97}

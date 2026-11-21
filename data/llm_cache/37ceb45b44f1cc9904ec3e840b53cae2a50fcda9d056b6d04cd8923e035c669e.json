@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Cold Chain Federation\",\n    \"Phil Pluck\",\n    \"Tom Southall\",\n    \"Cabinet Office\",\n    \"UK Government\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 863, "output_tokens": 93}

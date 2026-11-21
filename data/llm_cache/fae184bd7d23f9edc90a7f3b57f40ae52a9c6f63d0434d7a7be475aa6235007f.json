@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Janet Yellen\",\n    \"China\",\n    \"US\",\n    \"Joe Biden\",\n    \"Antony Blinken\",\n    \"Pan Gongsheng\",\n    \"People’s Bank of China\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 886, "output_tokens": 106}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Tate & Lyle\",\n    \"KSL Group\",\n    \"Leigh Day\",\n    \"Koh Kong\"\n  ],\n  \"perspectiva_economica\": \"neclar\",\n  \"incredere\": 0.85\n}", "input_tokens": 951, "output_tokens": 85}

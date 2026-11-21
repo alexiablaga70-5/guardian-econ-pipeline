@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Sainsbury's\",\n    \"Waitrose\",\n    \"Aldi\",\n    \"Morrisons\",\n    \"Marks & Spencer\",\n    \"Ikea\",\n    \"JD Sports\",\n    \"Boohoo\",\n    \"Asos\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 648, "output_tokens": 119}

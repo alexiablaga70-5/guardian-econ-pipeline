@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Scunthorpe\",\n    \"British Steel\",\n    \"Jingye\",\n    \"Mortz Property Services\",\n    \"Button Box\",\n    \"Upper Crust\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 1055, "output_tokens": 103}

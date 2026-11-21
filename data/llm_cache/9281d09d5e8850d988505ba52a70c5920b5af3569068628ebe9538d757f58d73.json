@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Virgin Atlantic\",\n    \"Treasury\",\n    \"Sir Richard Branson\",\n    \"Delta Air Lines\",\n    \"Ocado\",\n    \"Tim Steiner\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 983, "output_tokens": 95}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piete_financiare\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"RBA\",\n    \"Reserve Bank\",\n    \"Michele Bullock\",\n    \"Matt Grudnoff\",\n    \"Australia Institute\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 1027, "output_tokens": 93}

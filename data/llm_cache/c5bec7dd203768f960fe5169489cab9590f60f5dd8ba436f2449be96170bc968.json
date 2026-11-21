@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"JD Sports\",\n    \"Footasylum\",\n    \"Competition and Markets Authority\",\n    \"CMA\",\n    \"Nike\",\n    \"Adidas\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 729, "output_tokens": 94}

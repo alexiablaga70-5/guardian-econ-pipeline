@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Liz Truss\",\n    \"Bank of England\",\n    \"easyMoney\",\n    \"Pantheon Macroeconomics\",\n    \"Equifax UK\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 715, "output_tokens": 95}

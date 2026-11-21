@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Boohoo\",\n    \"John Lyttle\",\n    \"Julie Palmer\",\n    \"Begbies Traynor\",\n    \"Debenhams\",\n    \"Dorothy Perkins\",\n    \"Burton\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 919, "output_tokens": 107}

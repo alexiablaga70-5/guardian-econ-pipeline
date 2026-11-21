@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Jim Chalmers\",\n    \"Australia\",\n    \"Australian Bureau of Statistics\",\n    \"Westpac\",\n    \"Commonwealth Bank\",\n    \"Reserve Bank\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 907, "output_tokens": 97}

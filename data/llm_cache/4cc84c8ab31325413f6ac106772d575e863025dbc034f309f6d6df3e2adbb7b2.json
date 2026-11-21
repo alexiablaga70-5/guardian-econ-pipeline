@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Dylan McMahon\",\n    \"Will McMahon\",\n    \"Ross McMahon\",\n    \"Kendal Nutricare\",\n    \"Kendamil\",\n    \"Danone\",\n    \"Nestlé\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 976, "output_tokens": 104}

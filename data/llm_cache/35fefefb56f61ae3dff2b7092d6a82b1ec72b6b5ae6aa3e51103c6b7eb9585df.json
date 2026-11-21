@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Federal Reserve\",\n    \"Jerome Powell\",\n    \"Jamie Dimon\",\n    \"JP Morgan Chase\",\n    \"Economist Intelligence Unit\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 852, "output_tokens": 92}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"National Grid\",\n    \"National Energy System Operator\",\n    \"Neso\",\n    \"Ed Miliband\",\n    \"Fintan Slye\",\n    \"Ratcliffe-on-Soar\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 966, "output_tokens": 106}

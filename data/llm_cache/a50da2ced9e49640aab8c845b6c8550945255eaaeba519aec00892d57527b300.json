@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Donald Trump\",\n    \"AMP\",\n    \"Shane Oliver\",\n    \"National Australia Bank\",\n    \"Ray Attrill\",\n    \"Jim Chalmers\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 972, "output_tokens": 97}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"UK\",\n    \"France\",\n    \"IHS Markit/CIPS\",\n    \"Office for National Statistics\"\n  ],\n  \"perspectiva_economica\": \"in_crestere\",\n  \"incredere\": 0.95\n}", "input_tokens": 743, "output_tokens": 88}

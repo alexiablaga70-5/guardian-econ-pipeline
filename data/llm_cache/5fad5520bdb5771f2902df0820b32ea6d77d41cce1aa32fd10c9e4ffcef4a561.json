@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"RBA\",\n    \"Reserve Bank\",\n    \"Westpac\",\n    \"Justin Smirk\",\n    \"AMP\",\n    \"Diana Mousina\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 960, "output_tokens": 94}

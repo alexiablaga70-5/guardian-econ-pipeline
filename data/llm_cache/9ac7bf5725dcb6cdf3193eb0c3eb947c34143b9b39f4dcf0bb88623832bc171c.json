@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"UK\",\n    \"Ukraine\",\n    \"Russia\",\n    \"IHS Markit\",\n    \"Chartered Institute of Procurement and Supply\",\n    \"Cips\",\n    \"RSM\",\n    \"Make UK\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 809, "output_tokens": 112}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Starbucks\",\n    \"Austin Locke\",\n    \"Starbucks Workers United\",\n    \"New York City\",\n    \"National Employment Law Project\",\n    \"NELP\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 920, "output_tokens": 98}

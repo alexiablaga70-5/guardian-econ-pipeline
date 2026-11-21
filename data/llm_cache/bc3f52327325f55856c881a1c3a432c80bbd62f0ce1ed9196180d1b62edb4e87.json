@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Boeing\",\n    \"Starliner\",\n    \"Nasa\",\n    \"SpaceX\",\n    \"Elon Musk\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 911, "output_tokens": 88}

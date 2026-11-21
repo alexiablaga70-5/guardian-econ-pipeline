@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"Qantas\",\n    \"Airbus\",\n    \"Boeing\",\n    \"Markus Svensson\",\n    \"United Airlines\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 647, "output_tokens": 89}

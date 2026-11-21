@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"PwC\",\n    \"OECD\",\n    \"Larice Stielow\",\n    \"Women’s Budget Group\",\n    \"Sarah Ronan\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 647, "output_tokens": 95}

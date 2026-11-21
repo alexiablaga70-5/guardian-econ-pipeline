@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"comert\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Shein\",\n    \"BEUC\",\n    \"European Commission\",\n    \"Consumer Protection Cooperation Network\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 789, "output_tokens": 83}

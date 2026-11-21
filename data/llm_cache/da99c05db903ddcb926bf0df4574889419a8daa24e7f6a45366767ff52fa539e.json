@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Renault\",\n    \"Nissan\",\n    \"Mitsubishi\",\n    \"Carlos Ghosn\",\n    \"Volkswagen\",\n    \"Fiat Chrysler Automobiles\",\n    \"PSA Group\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 940, "output_tokens": 102}

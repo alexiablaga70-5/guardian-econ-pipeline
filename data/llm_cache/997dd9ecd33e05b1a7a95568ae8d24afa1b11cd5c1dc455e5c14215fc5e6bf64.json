@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"US\",\n    \"Iran\",\n    \"FTSE 100\",\n    \"S&P 500\",\n    \"Dow Jones\",\n    \"Goldman Sachs\",\n    \"UBS\",\n    \"RAC\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 683, "output_tokens": 110}

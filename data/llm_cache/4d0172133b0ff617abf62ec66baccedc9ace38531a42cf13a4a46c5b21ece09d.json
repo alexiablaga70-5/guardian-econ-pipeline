@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Qantas\",\n    \"ACCC\",\n    \"Alan Joyce\",\n    \"Gina Cass-Gottlieb\",\n    \"Vanessa Hudson\",\n    \"Volkswagen\",\n    \"Jetstar\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 959, "output_tokens": 102}

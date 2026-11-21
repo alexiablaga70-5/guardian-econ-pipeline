@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"OECD\",\n    \"UK\",\n    \"G7\",\n    \"Russia\",\n    \"Ukraine\",\n    \"Laurence Boone\",\n    \"UK Treasury\",\n    \"World Bank\",\n    \"China\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 788, "output_tokens": 110}

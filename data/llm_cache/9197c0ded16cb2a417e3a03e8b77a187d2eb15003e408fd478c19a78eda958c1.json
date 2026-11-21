@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Greenpeace\",\n    \"BP\",\n    \"Bernard Looney\",\n    \"Bob Dudley\",\n    \"Richard George\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 666, "output_tokens": 86}

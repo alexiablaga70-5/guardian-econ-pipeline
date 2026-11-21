@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"locuinte\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"NatWest\",\n    \"Sir Howard Davies\",\n    \"Yorkshire Building Society\",\n    \"Halifax\",\n    \"Generation Rent\",\n    \"Ben Twomey\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 862, "output_tokens": 98}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Ørsted\",\n    \"Siemens Energy\",\n    \"Vattenfall\",\n    \"Equinor\",\n    \"Centrica\",\n    \"Repsol\",\n    \"BP\",\n    \"Shell\",\n    \"National Grid\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 962, "output_tokens": 115}

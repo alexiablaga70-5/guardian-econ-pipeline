@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"altele\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Dolly Parton\",\n    \"Kylie\",\n    \"Accolade Wines\",\n    \"Asda\",\n    \"Beyoncé\",\n    \"LVMH\",\n    \"IWSR\"\n  ],\n  \"perspectiva_economica\": \"neclar\",\n  \"incredere\": 0.95\n}", "input_tokens": 772, "output_tokens": 103}

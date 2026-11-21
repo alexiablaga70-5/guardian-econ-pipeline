@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Liz Truss\",\n    \"Rishi Sunak\",\n    \"Emmanuel Macron\",\n    \"Jacob Rees-Mogg\",\n    \"Jo Carey\",\n    \"HM Treasury\",\n    \"Conservative Party\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.85\n}", "input_tokens": 928, "output_tokens": 109}

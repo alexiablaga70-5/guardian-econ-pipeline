@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"pozitiv\",\n  \"entitati\": [\n    \"Liz Tortolani\",\n    \"cityWell\",\n    \"Brooklyn\",\n    \"Gowanus\",\n    \"Gusto\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.8\n}", "input_tokens": 962, "output_tokens": 88}

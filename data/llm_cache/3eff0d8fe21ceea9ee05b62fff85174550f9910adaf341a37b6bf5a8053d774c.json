@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"neutru\",\n  \"entitati\": [\n    \"NatWest\",\n    \"HSBC\",\n    \"Lloyds\",\n    \"Barclays\",\n    \"Paul Thwaite\",\n    \"Georges Elhedery\",\n    \"Charlie Nunn\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 942, "output_tokens": 103}

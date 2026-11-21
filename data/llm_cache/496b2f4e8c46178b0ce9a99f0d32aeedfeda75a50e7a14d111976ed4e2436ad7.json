@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"politici_publice\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"IMF\",\n    \"World Bank\",\n    \"Kristalina Georgieva\",\n    \"Ajay Banga\",\n    \"David Malpass\",\n    \"Rishi Sunak\",\n    \"Jeremy Hunt\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 846, "output_tokens": 111}

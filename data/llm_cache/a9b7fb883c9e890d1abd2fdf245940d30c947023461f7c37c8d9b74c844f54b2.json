@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Virgin Media\",\n    \"Virgin Orbit\",\n    \"Sir Richard Branson\",\n    \"Dan Hart\",\n    \"Virgin Investments\",\n    \"Ofcom\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 890, "output_tokens": 97}

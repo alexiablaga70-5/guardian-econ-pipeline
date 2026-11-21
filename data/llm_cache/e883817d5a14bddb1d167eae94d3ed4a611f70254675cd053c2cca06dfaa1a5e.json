@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"piata_muncii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Bank of England\",\n    \"Alex Brazier\",\n    \"Dave Ramsden\",\n    \"Andrew Bailey\",\n    \"Treasury Committee\",\n    \"FTSE 100\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.9\n}", "input_tokens": 949, "output_tokens": 106}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"energie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"RAC\",\n    \"Opec+\",\n    \"Joe Biden\",\n    \"Competition and Markets Authority\",\n    \"Simon Williams\",\n    \"Costco\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 701, "output_tokens": 97}

@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"inflatie\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"NHS\",\n    \"NHS Charities Together\",\n    \"Royal College of Nursing\",\n    \"St George’s hospital\"\n  ],\n  \"perspectiva_economica\": \"in_scadere\",\n  \"incredere\": 0.95\n}", "input_tokens": 802, "output_tokens": 89}

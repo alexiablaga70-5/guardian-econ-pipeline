@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"KPMG\",\n    \"Google Bard\",\n    \"Commonwealth Bank\",\n    \"Senate committee\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.85\n}", "input_tokens": 802, "output_tokens": 81}

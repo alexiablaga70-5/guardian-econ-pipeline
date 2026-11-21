@@ -1,1 +1,0 @@
-{"text": "{\n  \"tema\": \"corporatii\",\n  \"sentiment\": \"negativ\",\n  \"entitati\": [\n    \"Carillion\",\n    \"Institute for Government\",\n    \"IfG\",\n    \"Cabinet Office\",\n    \"KPMG\",\n    \"HS2\"\n  ],\n  \"perspectiva_economica\": \"stabila\",\n  \"incredere\": 0.95\n}", "input_tokens": 826, "output_tokens": 94}
